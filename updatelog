@@ -1,9 +1,27 @@
-> Aura Updated to V-1.0.4
+> Aura Updated to V-1.0.5
 
-```
-[!] Added Licence Key system
-[/] dll will not longer be saved in Aura Menu Folder
-[/] Fixed Check for Updates Button (in Loader)``` 
+[+] Added Arrows on every side to Options
+[+] Added Waveshield Bypass
+[+] Added Global Ban Bypass
+[+] Added Spoof Weapon
+[+] Added Inf Ammo
+[+] Added God Mode
+[+] Added Easy Handling
+[+] Added 12 New Banners
 
+[/] Changed RageBot Design
+[/] Improved Generell Anticheat Bypasses
+[/] Changed Tab Navigator Color -> White
+[/] Changed Option Design
+[/] Section Name is now in the middle
+[/] Moved tab navigation to the middle
+[/] Feature Marker is not longer round
+[/] Redesigned the Loader a little bit
+[/] Fixed Anti Global ban protection
+[/] Fixed Some Security Feature
+[/] Fixed Auto Updater (in V-1.0.4 so you dont need to reinstall)
+
+[-] Removed Setup
+[-] Removed Custom Weapon Wheel
 
 **To Apply the Latest Aura Menu Updates just reopen the Loader**
